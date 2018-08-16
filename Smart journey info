@@ -1,0 +1,319 @@
+1. 
+{
+   'source':'Mdu junction',
+   'days available':[1. 
+{
+   'source':'Mdu junction',
+   'days available':[
+      'mon',
+      'tue',
+      'wed',
+	
+   ],
+   'train_name':'pandian express',
+   'train_number':[
+      '12638',
+   ],
+   'schedule':[
+      {
+         'time halt':'00:05',
+         'station code':'Mdu',
+         'sno':'1',
+         'arrival time':'STARTS
+         'station name':'MADURAI JN',
+         'remarks':'',
+         'departure time':'20:35',
+         'day':'1',
+         'route number':'1',
+         'distance':'0'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'KQN',
+         'sno':'2',
+         'arrival time':'21:09',
+         'station name':'KODAIKANAL ROAD',
+         'remarks':'',
+         'departure time':'21:10',
+         'day':'1',
+         'route number':'1',
+         'distance':'41'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'ABI',
+         'sno':'3',
+         'arrival time':'21:23',
+         'station name':'AMBATURAI JN',
+         'remarks':'',
+         'departure time':'21:24',
+         'day':'1',
+         'route number':'1',
+         'distance':'55'
+      },
+      {
+         'time halt':'5:00',
+         'station code':'DG',
+         'sno':'4',
+         'arrival time':'21:38',
+         'station name':'DINDUGAL JN',
+         'remarks':'',
+         'departure time':'21:43',
+         'day':'1',
+         'route number':'1',
+         'distance':'66'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'MPA',
+         'sno':'5',
+         'arrival time':'22:24',
+         'station name':'MANAPARAI',
+         'remarks':'',
+         'departure time':'22:25',
+         'day':'1',
+         'route number':'1',
+         'distance':'124'
+      },
+      {
+         'time halt':'5:00',
+         'station code':'TPJ',
+         'sno':'6',
+         'arrival time':'23:05',
+         'station name':'THIRUCHIRAPALLI JN',
+         'remarks':'',
+         'departure time':'23:10',
+         'day':'1',
+         'route number':'1',
+         'distance':'161'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'VRI',
+         'sno':'7',
+         'arrival time':'01:02',
+         'station name':'VRIDHACHALAM JN',
+         'remarks':'',
+         'departure time':'01:04',
+         'day':'2',
+         'route number':'1',
+         'distance':'284'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'VM',
+         'sno':'8',
+         'arrival time':'02:18',
+         'station name':'VILLUPURAM JN',
+         'remarks':'',
+         'departure time':'02:20',
+         'day':'2',
+         'route number':'1',
+         'distance':'338'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'CGL',
+         'sno':'9',
+         'arrival time':'04:13',
+         'station name':'CHENGALPATTU',
+         'remarks':'',
+         'departure time':'04:15',
+         'day':'2',
+         'route number':'1',
+         'distance':'441'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'TBM',
+         'sno':'10',
+         'arrival time':'04:43',
+         'station name':'TAMPARAM',
+         'remarks':'',
+         'departure time':'04:45',
+         'day':'2',
+         'route number':'1',
+         'distance':'472'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'MBM',
+         'sno':'11',
+         'arrival time':'05:04',
+         'station name':'MAMBALAM',
+         'remarks':'',
+         'departure time':'05:05',
+         'day':'2',
+         'route number':'1',
+         'distance':'490'
+      },
+      {
+         'time halt':'0:00',
+         'station code':'MS',
+         'sno':'12',
+         'arrival time':'05:35’,
+         'station name':'CHENNAI EGMORE’,
+         'remarks':'',
+         'departure time':'ENDS’,
+         'day':'2',
+         'route number':'1',
+         'distance':'497’
+      },
+      
+        
+      'mon',
+      'tue',
+      'wed',
+	
+   ],
+   'train_name':'pandian express',
+   'train_number':[
+      '12638',
+   ],
+   'schedule':[
+      {
+         'time halt':'00:05',
+         'station code':'Mdu',
+         'sno':'1',
+         'arrival time':'STARTS
+         'station name':'MADURAI JN',
+         'remarks':'',
+         'departure time':'20:35',
+         'day':'1',
+         'route number':'1',
+         'distance':'0'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'KQN',
+         'sno':'2',
+         'arrival time':'21:09',
+         'station name':'KODAIKANAL ROAD',
+         'remarks':'',
+         'departure time':'21:10',
+         'day':'1',
+         'route number':'1',
+         'distance':'41'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'ABI',
+         'sno':'3',
+         'arrival time':'21:23',
+         'station name':'AMBATURAI JN',
+         'remarks':'',
+         'departure time':'21:24',
+         'day':'1',
+         'route number':'1',
+         'distance':'55'
+      },
+      {
+         'time halt':'5:00',
+         'station code':'DG',
+         'sno':'4',
+         'arrival time':'21:38',
+         'station name':'DINDUGAL JN',
+         'remarks':'',
+         'departure time':'21:43',
+         'day':'1',
+         'route number':'1',
+         'distance':'66'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'MPA',
+         'sno':'5',
+         'arrival time':'22:24',
+         'station name':'MANAPARAI',
+         'remarks':'',
+         'departure time':'22:25',
+         'day':'1',
+         'route number':'1',
+         'distance':'124'
+      },
+      {
+         'time halt':'5:00',
+         'station code':'TPJ',
+         'sno':'6',
+         'arrival time':'23:05',
+         'station name':'THIRUCHIRAPALLI JN',
+         'remarks':'',
+         'departure time':'23:10',
+         'day':'1',
+         'route number':'1',
+         'distance':'161'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'VRI',
+         'sno':'7',
+         'arrival time':'01:02',
+         'station name':'VRIDHACHALAM JN',
+         'remarks':'',
+         'departure time':'01:04',
+         'day':'2',
+         'route number':'1',
+         'distance':'284'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'VM',
+         'sno':'8',
+         'arrival time':'02:18',
+         'station name':'VILLUPURAM JN',
+         'remarks':'',
+         'departure time':'02:20',
+         'day':'2',
+         'route number':'1',
+         'distance':'338'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'CGL',
+         'sno':'9',
+         'arrival time':'04:13',
+         'station name':'CHENGALPATTU',
+         'remarks':'',
+         'departure time':'04:15',
+         'day':'2',
+         'route number':'1',
+         'distance':'441'
+      },
+      {
+         'time halt':'2:00',
+         'station code':'TBM',
+         'sno':'10',
+         'arrival time':'04:43',
+         'station name':'TAMPARAM',
+         'remarks':'',
+         'departure time':'04:45',
+         'day':'2',
+         'route number':'1',
+         'distance':'472'
+      },
+      {
+         'time halt':'1:00',
+         'station code':'MBM',
+         'sno':'11',
+         'arrival time':'05:04',
+         'station name':'MAMBALAM',
+         'remarks':'',
+         'departure time':'05:05',
+         'day':'2',
+         'route number':'1',
+         'distance':'490'
+      },
+      {
+         'time halt':'0:00',
+         'station code':'MS',
+         'sno':'12',
+         'arrival time':'05:35’,
+         'station name':'CHENNAI EGMORE’,
+         'remarks':'',
+         'departure time':'ENDS’,
+         'day':'2',
+         'route number':'1',
+         'distance':'497’
+      },
+      
+        
