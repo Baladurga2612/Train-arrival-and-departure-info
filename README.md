@@ -1,1 +1,2 @@
-# Train-arrival-and-departure-info
+ABSTRACT:
+         Lots of problems for the passengers who are travelling in train is because of improper time predictions that is delay in arrival and departure of a train.To avoid this problems we created this code for a time schedule of a train.in this code we have chosen the pandian express which is travelling from madurai to chennai.So in this code clear time prediction for each station is predicted.
